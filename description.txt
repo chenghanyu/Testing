@@ -6,3 +6,7 @@ Let me update things because I got new data
 
 Part 3:
 Change more
+
+Part 4:
+
+plotting
