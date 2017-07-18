@@ -1,4 +1,4 @@
-Hello! I am Chneg-Han!
+Hello! I am Cheng-Han!
 
 
 Part 2:
@@ -8,8 +8,12 @@ Part 3:
 Change more
 
 Part 4:
+plotting
 
+<<<<<<< HEAD
 plotting
 
 
-sturmy~~~~~~
+
+STORMYYYY
+
